@@ -75,8 +75,4 @@ and vision transformers on moderately sized facial expression datasets.
 | Sad      | 0.386     | **0.735** | 0.643    |
 | Surprise | 0.640     | **0.776** | 0.726    |
 
-ResNet-50 achieves the best F1 in every single class. Disgust is the hardest 
-class across all models — not due to sample scarcity (717 samples) but 
-intrinsic visual ambiguity with happy and neutral.
-
-## Project Structure
+ResNet-50 achieves the best F1 in every single class. Disgust is the hardest class across all models — not due to sample scarcity (717 samples) but intrinsic visual ambiguity with happy and neutral.
